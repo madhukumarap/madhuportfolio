@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Traceworks Technologies",
+            "workType": "Full-time",
+            "workDescription": [
+                "In my role as a full-stack developer, I took charge of rejuvenating our company’s online presence by leveraging the power of the MERN stack. With this technology suite, I orchestrated a complete overhaul of our website, infusing it with dynamic features and functionalities. The cornerstone of this transformation was the implementation of an intuitive admin panel, granting us unparalleled control over every aspect of the site. Through this panel, we could effortlessly manage dynamic elements such as banners, product listings, and more.",
+                "Furthermore, my collaboration with cross-functional teams was instrumental in ensuring the seamless delivery of project milestones. By fostering open communication and leveraging our collective expertise, we navigated challenges effectively and kept the project on track. As a result of these efforts, we witnessed a remarkable 20% increase in user engagement, underscoring the success of our endeavors"
+            ],
+            "dateText": "12/2023 – Present"
+        },
+        {
+            "title": "Frontend Engineer",
+            "subtitle": "Kramah software ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed dynamic web pages and customized templates by collaborating with backend technologies,including PHP scripts and SQL databases in the XAMPP server using a local environment. Successfully integrated and added content to enhance the overall functionality and user experience.."
+            ],
+            "dateText": "09/2023 – 10/2023"
+        },
+        {
+            "title": "Full Stack Internship",
+            "subtitle": "Dream Buzz Solution",
+            "workType": "Internship",
+            "workDescription": [
+                "To learn how to work with dynamic web pages, store data in databases, and display information dynamically, one can explore a comprehensive curriculum covering frontend technologies such as HTML, CSS, and JavaScript. Additionally, gaining proficiency in backend scripting languages like PHP and Python, coupled with database management using SQL, is essential. Various online platforms, coding  bootcamps, and educational websites offer courses and tutorials to provide a well-rounde"
+            ],
+            "dateText": "10/2022 – 11/2022"
+        }
+    ]
+}

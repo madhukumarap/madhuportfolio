@@ -1,0 +1,100 @@
+{
+    "projects" : [
+        {
+        
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/madhukumarap?"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+           
+            "title": "E-LEARNING AND MEDICAL ASSISTANCE FOR MEDICALLY IMPAIRED CHILDREN ",
+            "bodyText": "- Deaf children have no hearing capacity or hard of hearing. When there is one-tone conversation with deaf child, there is possibility to convey something through speech or sign as they cannot overhear conversations",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/madhukumarap?"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "JavaScript",
+                "Php",
+                "Sql",
+                "Xampp"
+            ]
+        },
+        {
+           
+            "title": "BIRTHRATE ANALYSIS",
+            "bodyText": "- with this project i aim to produce the birth rate analysis of the one decade of the birthrate of male and female and death rate of one decade",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/madhukumarap?"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "Python",
+                "Anoconda",
+                "Pandas",
+                "Numpy",
+                "Matlab"
+            ]
+        },
+        {
+            "title": "A CARDLESS ATM TRANSACTRANSACTION USING BIOMETRIC TRAIT FOR AUTHENTICATION",
+            "bodyText": "- We suggest a more secure and reliable approach than the current one that accesses user accountsusing fingerprint and face recognition identification (rather than ATM cards).\n Here we are using the CNN face-recognition model and Minutiae feature extraction for fingerprint recognition.\n The motivation behind developing a deep learning-based card-less ATM system utilizing fingerprint likewise face recognition techniques stems from the need to enhance security, convenience, and user experience in the existing ATM infrastructure",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/madhukumarap?"
+                }
+            ],
+            "tags" : [
+                "Html",
+                "Css",
+                "Python",
+                "Anoconda",
+                "Pandas",
+                "Numpy",
+                "Matlab",
+                "Flask",
+                "Machine Larning"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/madhukumarap?"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        }
+    ]
+}

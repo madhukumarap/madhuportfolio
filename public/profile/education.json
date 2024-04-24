@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Nov 2021 - Sep 2023",
+            "cardTitle": "MCA, Master Of Computer Application",
+            "cardSubtitle":"Rajarajeswari Collage of Engineering, Bangaluru",
+            "cardDetailedText": "CGPA - 8.5",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2018 - Sep 2021",
+            "cardTitle": "BCA",
+            "cardSubtitle":"Pes collage, Mandya",
+            "cardDetailedText": "CGPA - 7.8"
+        },
+        {
+            "title": "June 2016 - May 2018",
+            "cardTitle": "PUC",
+            "cardSubtitle":"Gov't Pu Collage, Bannuru",
+            "cardDetailedText": "Marks - 68%"
+        },
+        {
+            "title": "April 2016",
+            "cardTitle": "SSLC",
+            "cardSubtitle":"Adarsha School, Malavalli",
+            "cardDetailedText": "Marks - 68%"
+        }
+    ]
+}
